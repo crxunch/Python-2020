@@ -33,3 +33,9 @@ print(a)
 #it has a slew of bugs that i dont know how to fix because i dont understand them yet
 
 #i am happy to be cataloging this so that i can look back on it in the years to come
+
+####################################################################################################################################################################
+
+#(edit made 3 minutes later) i fixed all the bugs by just adding REAL input, after a little tweakign everything works fine!
+
+#first useful python program! whoop!
